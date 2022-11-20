@@ -1,0 +1,4 @@
+com/api/palindrome/controller/FindClosestPalindromeControllerTest.class
+com/api/palindrome/service/FindClosestPalindromeServiceTest.class
+com/api/palindrome/PalindromeApplicationTests.class
+com/api/palindrome/util/PalindromUtilTest.class
